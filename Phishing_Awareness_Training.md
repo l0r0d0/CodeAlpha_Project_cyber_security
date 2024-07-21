@@ -56,11 +56,6 @@
 - **Baiting:** Offering something enticing to get you to provide information.
 - **Quid Pro Quo:** Offering a service or benefit in exchange for information.
 
----
-
-### Real-Life Phishing Scenarios
-- Examples of recent phishing attacks and their impact.
-- Discussion of how these attacks were executed and what could have been done to prevent them.
 
 ---
 
@@ -82,24 +77,3 @@
 
 ---
 
-### Test Your Knowledge
-- **Scenario-based questions:** Present different phishing scenarios and ask how to respond.
-- **True/False questions:** Statements about phishing myths and facts.
-
----
-
-### Additional Resources
-- **Websites:** List of reputable sites for further reading.
-- **Tools:** Links to anti-phishing tools and browser extensions.
-- **Contacts:** IT department or security team contact information for reporting.
-
----
-
-### Questions and Answers
-- Open the floor for questions from the audience.
-- Provide answers and further clarifications as needed.
-
----
-
-### Thank You
-- Thank the audience for their time and attention.
